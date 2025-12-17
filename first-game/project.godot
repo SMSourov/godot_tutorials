@@ -19,6 +19,8 @@ config/icon="res://icon.svg"
 
 2d_physics/layer_1="PLAYER"
 2d_physics/layer_2="WORLD"
+2d_physics/layer_3="COIN"
+2d_physics/layer_4="PLATFORM"
 
 [rendering]
 
