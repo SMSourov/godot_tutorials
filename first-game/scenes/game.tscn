@@ -412,8 +412,14 @@ position = Vector2(88, -105)
 [node name="Coin4" parent="Coins" instance=ExtResource("4_lbhrr")]
 position = Vector2(473, -23)
 
+[node name="Coin5" parent="Coins" instance=ExtResource("4_lbhrr")]
+position = Vector2(394, -17)
+
 [node name="Coin6" parent="Coins" instance=ExtResource("4_lbhrr")]
 position = Vector2(716, -94)
+
+[node name="Coin10" parent="Coins" instance=ExtResource("4_lbhrr")]
+position = Vector2(216, 8)
 
 [node name="Coin7" parent="Coins" instance=ExtResource("4_lbhrr")]
 position = Vector2(739, -94)
@@ -423,9 +429,6 @@ position = Vector2(760, -94)
 
 [node name="Coin9" parent="Coins" instance=ExtResource("4_lbhrr")]
 position = Vector2(552, -171)
-
-[node name="Coin5" parent="Coins" instance=ExtResource("4_lbhrr")]
-position = Vector2(394, -17)
 
 [node name="Platforms" type="Node" parent="."]
 
